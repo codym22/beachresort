@@ -1,4 +1,6 @@
-a cutting-edge platform meticulously crafted with a technology stack that seamlessly blends React.js, CSS, HTML, and JavaScript.
+A cutting-edge platform meticulously crafted with a technology stack that seamlessly blends React.js, CSS, HTML, and JavaScript.
+
+features-
 
 1- On the front end, the application employs React.js to artfully design a dynamic and user-friendly interface. This strategic choice ensures a seamlessly smooth and interactive experience for users, elevating the overall usability of the application to new heights.
 
